@@ -2,6 +2,7 @@ body{
 	background-image: url(img/йй.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 #wrapper{
