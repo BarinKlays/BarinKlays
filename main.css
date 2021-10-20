@@ -5,11 +5,11 @@ body{
 	background-attachment: fixed;
 }
 
-h1{
-	text-align: center;
+.textt{
+	text-align:center;
 }
 
-p{
+p_text{
 	margin: 10px 110px;
 }
 
