@@ -116,7 +116,8 @@ p_text{
 }
 
 .p_pp{
-	color: grey;
+    color: gray;
+    font-size: 1px;
 }
 
 
