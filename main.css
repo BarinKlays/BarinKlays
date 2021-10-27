@@ -59,6 +59,11 @@ p_text{
 
 }
 
+.img_i{
+	display: block;
+	width: 100%;
+}
+
 .text_h1{
 	text-align: center;
 }
