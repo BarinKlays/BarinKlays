@@ -59,6 +59,10 @@ p_text{
 
 }
 
+.text_h1{
+	text-align: center;
+}
+
 .tabl{
 	border: solid 3px;
 	margin: 10px 120px;
