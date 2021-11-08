@@ -63,6 +63,11 @@ p_text{
 	text-align: center;
 }
 
+.video_iframe{
+	display: block;
+	margin: 0 auto;
+}
+
 .img_i{
 	display: block;
 	width: 100%;
