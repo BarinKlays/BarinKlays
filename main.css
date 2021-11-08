@@ -60,7 +60,10 @@ p_text{
 }
 
 .video{
-	text-align: center;
+	margin: 0 auto;
+    text-align: center;
+    width: 660px;
+    height: 375px;
 }
 
 .video_iframe{
