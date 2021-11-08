@@ -59,6 +59,10 @@ p_text{
 
 }
 
+.video{
+	margin: 0 auto;
+}
+
 .img_i{
 	display: block;
 	width: 100%;
