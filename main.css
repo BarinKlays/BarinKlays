@@ -151,7 +151,11 @@ p_text{
 /* Minimum resolution */
 @media screen and (min-width: 1080px) {
   .textp{
-    font-size: 50px;
+    font-size: 25px;
+  }
+
+  .p_text{
+  	    font-size: 25px;
   }
 }
 
