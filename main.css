@@ -161,6 +161,10 @@ p_text{
     .p_textt{
   	font-size: 25px;
   }
+
+  .left{
+  	font-size: 20px;
+  }
 }
 
 
