@@ -149,9 +149,13 @@ p_text{
 }
 
 /* Minimum resolution */
-@media screen and (min-width: 720px) {
+@media screen and (max-width: 720px) {
   .textp{
     font-size: 25px;
+  }
+
+  .p_text{
+  	font-size: 25px;
   }
 
 }
