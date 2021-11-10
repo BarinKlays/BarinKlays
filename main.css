@@ -204,14 +204,46 @@ p_text{
 		font-size: 40px;
 	}
 
-@media (min-width: 768px) { }
+@media (min-width: 768px) {
+  #navigation {
+    background: #d2d0d2;
+    width: 900px;
+    height: 50px;
+    background-size: 379px 19px;
+    display: flex;
+    justify-content: space-between;
+   }
+
+   .left {
+    padding-left: 0;
+    font-size: 30px;
+    border: solid 5px white;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+	.textp {
+    font-size: 25px;
+}
+
+	h2{
+		font-size: 30px;
+	}
+
+	.p_text {
+    font-size: 25px;
+}
+
+.p_textt {
+    font-size: 25px;
+}
+
+ }
 
 @media (min-width: 992px) { }
 
 @media (min-width: 1200px) { }
 
 @media (min-width: 1400px) { }
-
 
 
 
