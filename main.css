@@ -148,6 +148,14 @@ p_text{
 	width: 50%;
 }
 
+/* Minimum resolution */
+@media (min-width: 1080px) and (max-width: 1283.98) {
+  .textp{
+    font-size: 50px;
+  }
+}
+
+
 
 
 
