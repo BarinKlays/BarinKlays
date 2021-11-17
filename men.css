@@ -6,7 +6,7 @@ body{
 }
 
 #wrapper{
-	background: #ffffff;
+
 	margin: 60px auto;
 	width: 900px;
 	height: 1024px;
@@ -25,7 +25,6 @@ body{
 
 #navigation{
 	background: #d2d0d2;
-	#d2d0d2
 	width: 900px;
 	height: 20px;
 	background-image: url(img/ooo.gif);
@@ -51,9 +50,10 @@ body{
 #content{
 	background: #d2d0d2;
 	width: 900px;
+	position: relative;
 }
 
-.img_class{
+.i{
 
 }
 
@@ -86,13 +86,13 @@ body{
 }
 
 .texttabl{
+	justify-content: space-around;
 	display: flex;
 	margin: 20px;
 }
 
 .table{
     margin: 0;
-    display: flex;
     text-align: center;
 }
 
@@ -111,36 +111,37 @@ body{
 }
 
 .food{
-	height: 100px;
+	max-height: 130px;
+	max-width: 130px;
 	padding-top: 30px;
 	padding: 15px;
 }
 
-#footer{
+.food:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.75);
+  
+}
+
+.perehod{
+    padding-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+footer{
 	background: #838283;
 	height: 220px;
 	width: 900px;
 }
 
-.text_icon{
-	margin: 0;
-	text-align: center;
-	padding-top: 20px;
-	padding-right: 50px;
+.end_footer{
+	display: flex;
+    justify-content: space-around;
 }
 
-.end{
-   display: flex;
-}
-
-.end_con{
-	padding-left: 40px;
-	margin: auto;
-}
-
-.h3_text{
-	text-align: center;
-}
 
 
 
