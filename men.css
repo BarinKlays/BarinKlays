@@ -24,6 +24,8 @@ body{
 
 
 #navigation{
+	display: flex;
+    justify-content: space-around;
 	background: #d2d0d2;
 	width: 900px;
 	height: 20px;
@@ -37,8 +39,6 @@ body{
 }
 
 .left{
-    padding-right: 80px;
-    padding-left: 80px;
     text-decoration: none;
     color: black;
 }
@@ -64,7 +64,7 @@ body{
 }
 
 .img{
-	margin-right: 10px;
+	max-width: 200px;
     border: solid 2px;
 }
 
@@ -120,7 +120,7 @@ body{
 .food:hover {
   -webkit-transform: scale(1.2);
   -ms-transform: scale(1.2);
-  transform: scale(1.75);
+  transform: scale(1.74);
   
 }
 
@@ -129,6 +129,12 @@ body{
     font-size: 20px;
     text-decoration: none;
     padding-right: 20px;
+}
+
+.text_p_food{
+	text-align: justify;
+    padding: 0 10px;
+}
 }
 
 footer{
@@ -141,74 +147,3 @@ footer{
 	display: flex;
     justify-content: space-around;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
