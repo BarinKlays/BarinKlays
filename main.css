@@ -61,6 +61,11 @@ p_text{
 
 }
 
+.form{
+	  display: block;
+    margin: 10px auto;
+}
+
 .video{
 	margin: 0 auto;
     text-align: center;
