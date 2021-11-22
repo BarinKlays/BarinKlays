@@ -67,6 +67,7 @@ p_text{
     display: block;
     padding: 10px 0;
     width: 900px;
+	text-align: center;
 }
 
 .video{
