@@ -318,6 +318,14 @@ p_text{
 @media (min-width: 1200px) { }
 
 @media (min-width: 1400px) { }
+	
+	.ya-share2{
+	padding: 10px;
+}
+
+.vk_auth{
+	margin: auto;
+}
 
 
 
